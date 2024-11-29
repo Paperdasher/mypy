@@ -37,3 +37,16 @@ print("She is " + a) # prints using global variable
 
 
 
+# Quiz Time
+
+# 1. What will the following code output?
+
+##2024newyear = "Happy New Year!"
+
+# 2. What is the value of container?
+
+shelf, container = 100, 20
+
+# 3. Assign the value -10, 5.5, True, "Yay!" to four variables with different names on one line. Then print each value on one line.
+##   This means that there should only be two lines of code.
+
