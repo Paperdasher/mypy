@@ -1,2 +1,2 @@
 # mypy
-MyPy Tutoring Repo
+MyPy Tutoring Repo for Mr. Takahashi
