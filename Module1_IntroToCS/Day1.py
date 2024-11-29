@@ -4,7 +4,7 @@
 ## As you can notice, this is a comment and will not run when called
 ## Anything after the # symbol is considered a comment for that line
 """
-This is a multi-line comment. This can be done using three quotes to start and to end. 
+This is a multi-line comment. Python ignores literal strings that are not assigned to a variable. 
 You can find more info about comments at this link: https://www.w3schools.com/python/python_comments.asp
 """
 
@@ -54,8 +54,7 @@ Those are some of the glimpse of this data type. We can print literal strings us
 
 PYTHON IS CASE-SENSITIVE!!! The string "Hello" is not the same as the string "hello"
 
-Multi-line strings can be written just like a comment. These comments are technically multi-line strings, but since they aren't printed
-won't affect the code.
+Multi-line strings can be written using a triple quotation of either type " or '.
 """
 
 #### Try creating a string variable, and printing it
