@@ -1,6 +1,19 @@
 ##Day 2: Type Casting, Advanced Data Types
 
 
+## bool
+"""
+A boolean is a concept of True and False. If somebody asks you "Can humans time-travel?" your answer most likely will be "No."
+We can assess that this question was a True or False question, so your answer in boolean terms would be false.
+Most terms in Python will return True if you put it in boolean terms. But, some values are considered false.
+False, None, 0, "", (), [], {} will all return false. Basically, empty elements, the boolean False, None, and 0 will give you False.
+This means that, when we deal with numbers, we can use 0 and 1 as binary terms to return True and False values.
+"""
+
+#### Try creating a string variable, and printing it
+
+
+
 #We can assign multiple variables in one line, making our code more easily readable
 a, b, c = "Barack", "Donald", "Joe"
 print(a), print(b), print(c)
@@ -37,16 +50,34 @@ print("She is " + a) # prints using global variable
 
 
 
-# Quiz Time
+""" 
+Quiz Time
 
-# 1. What will the following code output?
+1. What will the following code output?
 
-##2024newyear = "Happy New Year!"
+2024newyear = "Happy New Year!"
 
-# 2. What is the value of container?
+2. What is the value of container?
 
 shelf, container = 100, 20
 
-# 3. Assign the value -10, 5.5, True, "Yay!" to four variables with different names on one line. Then print each value on one line.
-##   This means that there should only be two lines of code.
+3. Assign the value -10, 5.5, True, "Yay!" to four variables with different names on one line. Then print each value on one line.
+   This means that there should only be two lines of code.
+"""
 
+### ANSWER HERE:
+
+# 1. 
+# 2. 
+# 3. WRITE CODE BELOW:
+
+
+##
+
+
+"""
+HW: 
+Think about different shapes around us. 
+How can we tell a computer to draw them? 
+What steps do we need? 
+"""

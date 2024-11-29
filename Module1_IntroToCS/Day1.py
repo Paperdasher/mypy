@@ -89,17 +89,6 @@ that isn't restricted to integers.
 #### Try creating a float variable, and printing it
 
 
-## bool
-"""
-A boolean is a concept of True and False. If somebody asks you "Can humans time-travel?" your answer most likely will be "No."
-We can assess that this question was a True or False question, so your answer in boolean terms would be false.
-Most terms in Python will return True if you put it in boolean terms. But, some values are considered false.
-False, None, 0, "", (), [], {} will all return false. Basically, empty elements, the boolean False, None, and 0 will give you False.
-This means that, when we deal with numbers, we can use 0 and 1 as binary terms to return True and False values.
-"""
-
-#### Try creating a string variable, and printing it
-
 
 """
 HW: Create a variable of favorite color, number. Print the variables out.
