@@ -41,10 +41,15 @@ print(a)
 
 """
 We can also directly compare str using the == operator to see if they are equal or not.
+We can add strings as well, using concatenation. For example, "hello" + " world" would become "hello world"
+Concatenation only works with strings in Python though, unlike other languages such as Java.
 """
 
 print("abc" == "ABC") # example of Python being case-sensitive
 print('I Love Python!' == "I Love Python!") # since the "" and '' are considered the same in terms of a string, they will be equal
+print("Python " + "is" + " fun") # would print "Python is fun", will add the way written so spaces need to be added accordingly
+print("My" + "funny" + "friend") # would print "Myfunnyfried" since there are no spaces in the strings
+
 
 ## int
 """
@@ -69,6 +74,7 @@ e = -24.563 # float numbers can be negative
 print(d)
 print(e)
 
+
 ## bool
 """
 A boolean is a concept of True and False. If somebody asks you "Can humans time-travel?" your answer most likely will be "No."
@@ -78,6 +84,8 @@ False, None, 0, "", (), [], {} will all return false. Basically, empty elements,
 This means that, when we deal with numbers, we can use 0 and 1 as binary terms to return True and False values.
 """
 
+boolean_a = True # can assign boolean values to variables
+print(boolean_a) # will print boolean value
 
 
 ## Print Statements
