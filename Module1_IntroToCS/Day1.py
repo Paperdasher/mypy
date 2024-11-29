@@ -19,6 +19,31 @@ In Python, there are multiple data types. The most common ones are:
 - range
 """
 
+"""
+Variables have variable names. Most languages accept similar standards of names. 
+- Start with letter or underscore
+- Cannot start a name with a number
+- Only contain alpha-numeric characters and underscores(A-z, 0-9, _)
+- Case-sensitive
+- No keywords(bool, int, def, etc.) 
+
+When assigning variable names, format it as variable_name = variable_value
+
+Ex. sport = "basketball", year = 2024
+"""
+
+## Print Statements
+"""
+Printing! The only way the system outputs something we can see is through the built-in print() function.
+This allows us to output whatever is inside the (). 
+Note: Trying to print a variable without defining it will result in an error. 
+"""
+
+#print(f) will result in an error
+print("f") # will be considered as a string and therefore output f
+print(123) # will print the int 123
+print(123.05) # will print the float 123.05
+print(bool(0)) # will print False, this is something called Type Casting. 
 
 
 ## str
@@ -33,11 +58,7 @@ Multi-line strings can be written just like a comment. These comments are techni
 won't affect the code.
 """
 
-
-a = "Hello"
-print("Hola")
-print('Bonjour')
-print(a)
+#### Try creating a string variable, and printing it
 
 """
 We can also directly compare str using the == operator to see if they are equal or not.
@@ -57,10 +78,7 @@ An int is like the integers you deal with in math class. They don't contain deci
 So, 5 is a valid int and so is -2000. 
 """
 
-b = 5
-c = -2000
-print(b)
-print(c)
+#### Try creating a int variable, and printing it
 
 
 ## float
@@ -69,10 +87,7 @@ A float number is like all other numbers, where we have decimal values. It doesn
 that isn't restricted to integers. 
 """
 
-d = 10.0  # This is an example of a float number that doesn't have "decimal points"
-e = -24.563 # float numbers can be negative
-print(d)
-print(e)
+#### Try creating a float variable, and printing it
 
 
 ## bool
@@ -84,19 +99,9 @@ False, None, 0, "", (), [], {} will all return false. Basically, empty elements,
 This means that, when we deal with numbers, we can use 0 and 1 as binary terms to return True and False values.
 """
 
-boolean_a = True # can assign boolean values to variables
-print(boolean_a) # will print boolean value
+#### Try creating a string variable, and printing it
 
 
-## Print Statements
 """
-Printing! The only way the system outputs something we can see is through the built-in print() function.
-This allows us to output whatever is inside the (). 
-Note: Trying to print a variable without defining it will result in an error. 
+HW: Create a variable of favorite color, number. Print the variables out.
 """
-
-#print(f) will result in an error
-print("f") # will be considered as a string and therefore output f
-print(123) # will print the int 123
-print(123.05) # will print the float 123.05
-print(bool(0)) # will print False, this is something called Type Casting. 
