@@ -13,3 +13,20 @@ def foo(a):
     
 foo(["a", "b", "c", "d"])
 
+
+
+#We can also use the range type to iterate through.
+import random
+
+def foo2(num):
+    a = range(num)
+    nums = []
+    for n in a:
+        nums.append(random.randint(0, 10))
+    return nums
+
+print(foo2(10))
+
+
+
+## HW: Do two of the list problems in the CodingBat page.
