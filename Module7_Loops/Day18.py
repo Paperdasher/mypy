@@ -25,3 +25,6 @@ fizzBuzz(1, 11) → ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "B
 # Takes a start and end val, returns new String list where mult of 3 are replaced by "fizz", mult of 5 by "buzz", and mult of 15 by "fizzbuzz"
 #int start and end -> String list
 def fizzbuzz(start, end):
+
+
+## HW: Do remaining list problems in the CodingBat page.
