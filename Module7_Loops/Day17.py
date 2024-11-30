@@ -12,3 +12,6 @@ Advanced: Have code that prints an error message if the input is not a int or fl
 # As always, write the function definition above the function as a comment.
 
 def ngon():
+
+
+## HW: Do two list problems in the CodingBat page.
