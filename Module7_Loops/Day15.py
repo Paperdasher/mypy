@@ -39,7 +39,7 @@ Write a function where...
 
 """
 
-### CODE BELOW ###
+### CODE BELOW ### (get rid of comment # when writing each function)
 
 #def remove_odd(nums):
 
