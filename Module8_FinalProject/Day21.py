@@ -1,4 +1,4 @@
-##Day 20: Final Project
+##Day 21: Final Project
 
 """
 Now that you've accumulated adequate coding skills using Python, put it all to test in this project.
@@ -9,7 +9,10 @@ Don't use turtles, simply print lines of the board.
 
 You must use helper functions for this project. Use clear variable names, and make clear what function does what.
 Ex. board_position instead of b, def computer_move instead of def comp
+
+I will be calling the function tictactoe to test. PLEASE DO NOT CHANGE THE TICTACTOE FUNCTION NAME.
 """
 
 ### CODE BELOW ###
 
+#def tictactoe():
