@@ -10,6 +10,8 @@ Explain and, or, greater than, less than with conditional statements- ask user t
 Also, print out that the number is small if it is less than ten
 """
 
+### Exercise: Work on If-statements category problems on CodingBat. Share your screen so I can see you coding. Try to complete all problems.
+
 
 # ------------------------------------------------------------------------------- #
 
