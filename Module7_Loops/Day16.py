@@ -28,5 +28,19 @@ def foo2(num):
 print(foo2(10))
 
 
+# -------------------------------------------------- #
 
-## HW: Do two of the list problems in the CodingBat page.
+"""
+Exercises:
+
+1. 
+2. 
+3. 
+"""
+
+## CODE BELOW ##
+
+
+# ------------------------------------------- #
+
+## HW: Do three of the Loops problems in the CodingBat page.

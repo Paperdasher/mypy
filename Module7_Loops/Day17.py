@@ -14,4 +14,4 @@ Advanced: Have code that prints an error message if the input is not a int or fl
 def ngon():
 
 
-## HW: Do two list problems in the CodingBat page.
+## HW: Do three Loops problems in the CodingBat page.

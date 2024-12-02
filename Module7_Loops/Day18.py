@@ -27,4 +27,4 @@ fizzBuzz(1, 11) → ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "B
 def fizzbuzz(start, end):
 
 
-## HW: Do remaining list problems in the CodingBat page.
+## HW: Do remaining loop problems in the CodingBat page.
