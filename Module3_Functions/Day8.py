@@ -1,2 +1,2 @@
-##Day 8: Taking User Inputs
+##Day 8: 
 
