@@ -6,6 +6,8 @@ We can also take a user input of what kind of polygon they'd like to make, and p
 
 Your task is to write a function ngon that takes a user input of a float num, and draws the corresponding sided polygon.
 Advanced: Have code that prints an error message if the input is not a int or float value(ex. string word).
+
+DO NOT CHANGE THE FUNCTION NAME!
 """
 
 ### CODE BELOW ###

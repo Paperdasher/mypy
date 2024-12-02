@@ -18,6 +18,8 @@ Ex:
 fizzBuzz(1, 6) → ["1", "2", "Fizz", "4", "Buzz"]
 fizzBuzz(1, 8) → ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7"]
 fizzBuzz(1, 11) → ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "Buzz"]
+
+DO NOT CHANGE THE FUNCTION NAME!
 """
 
 ### CODE BELOW ###

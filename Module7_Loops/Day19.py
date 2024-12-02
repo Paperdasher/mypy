@@ -10,6 +10,10 @@ There are many algorithms in the world to accomplish this. Although most likely 
 2. Selection sort
 
 3. Insertion sort
+
+
+
+PLEASE DO NOT CHANGE THE FUNCTION NAMES. You do NOT need helper functions for this task.
 """
 
 ## BUBBLE SORT:
