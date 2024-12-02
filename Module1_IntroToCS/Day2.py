@@ -13,6 +13,25 @@ This means that, when we deal with numbers, we can use 0 and 1 as binary terms t
 #### Try creating a string variable, and printing it
 
 
+## range
+"""
+A range is what it sounds like, a sequence of numbers. We can be creative about what kind of sequence we want.
+A range is a sequence type, so it isn't considered numeric. This means that range is just like a list or tuple, just in a different format.
+By default, the sequence starts at 0 and increments by 1.
+
+range(start, stop, increment)
+
+The only required element here is the stop. When only one number is given in the (), it is assumed default val for the other two vals.
+If there are two nums (a, b), it is assumed the start and stop value. 
+This means that if you want an increment, you must have all three values, even if you'd like to start at the default 0.
+"""
+
+#### Try creating a range variable, and printing it
+# What does printing range look like? How would you print each individual value in the sequence?(more in future lessons)
+
+
+#------------------------------------------------------------------------------------------------------------------------------#
+
 
 #We can assign multiple variables in one line, making our code more easily readable
 a, b, c = "Barack", "Donald", "Joe"
