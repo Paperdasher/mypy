@@ -1,6 +1,24 @@
 ##Day 2: Type Casting, Advanced Data Types
 
 
+## int
+"""
+An int is like the integers you deal with in math class. They don't contain decimals, and can be both negative or positive.
+So, 5 is a valid int and so is -2000. 
+"""
+
+#### Try creating a int variable, and printing it
+
+"""
+When we cast to an int, it always takes the decimal part away. In other words, the number gets closer to 0. There is no "traditional rounding" by greater or less than 5.
+
+"""
+print(int(-2.5)) # prints -2 because getting rid of the decimals results in -2. Also, -2 is closer to 0.
+print(int(5.8)) # prints 5
+
+
+#---------------------------------------#
+
 ## bool
 """
 A boolean is a concept of True and False. If somebody asks you "Can humans time-travel?" your answer most likely will be "No."
@@ -12,6 +30,9 @@ This means that, when we deal with numbers, we can use 0 and 1 as binary terms t
 
 #### Try creating a string variable, and printing it
 
+
+
+#---------------------------------------#
 
 ## range
 """
