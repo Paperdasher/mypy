@@ -11,3 +11,4 @@ we don't want continuity for all our shapes. So we need a way to determine when 
 We can use the penup/pen down functionality in the library to accomplish this.
 """
 
+import turtle
