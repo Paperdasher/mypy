@@ -10,6 +10,7 @@ In code, we run our code through the terminal, which is a software on your compu
 In some cases, there are IDE(Integrated development environment) that allow you to directly run Python code.
 However, repl.it is an online platform that doesn't directly operate with a "Run" button. Instead, it provides us with a terminal in the platform.
 By giving terminal commands, we can replicate software that needs to be installed with this online platform.
+(We are ignoring the run button above, there are configurations that are annoying and it is good practice to use the terminal to run programs.)
 
 On your computer, you have what is commonly known as "files." In CS, we call these "directories."
 When you open the "file explorer," it's a more user-friendly version of what we can do with the terminal.
@@ -19,10 +20,16 @@ When we write code, our programs can access other files(pictures such as .jpg, d
 Common commands beneficial to know-
 - cd(change-directory): changes the current directory
 Ex. when you open the terminal: cd Documents/MyPy/Python/Module1_IntroToCS
-Tip: to go outside of a directory, use the .. keyword. (ex. cd ../.. -> goes to MyPy directory)
+Tip: to go outside of a directory, use the .. keyword. (ex. cd ../.. -> goes to MyPy directory from Module directory)
 
 - mkdir(make-directory): makes a new directory in the current directory
 Ex. make a new module: mkdir ModuleX
+
+- ls(list-directory): lists the contents of the current directory
+use when you want to know what directories and files are located in the current directory
+
+- &&: combines two commands into one
+use for multiple commands to be executed in one go(ex. cd Documents/MyPy/Python/Module1_IntroToCS && ls))
 
 To open your terminal, simply click the key with the Windows logo to popup the app finder. Then type "terminal." 
 Note: Other complex commands may differ based on the system(Windows vs. Mac vs. Linux)
@@ -35,7 +42,7 @@ So when running your homework file, try cd-ing into the right directory, then us
 """
 Exercise:
 
-Try on the terminal provided below on repl.it
+Try on the terminal provided below on repl.it(they call it a shell)
 
 1. From Module2_Turtles, change directories into Module7_Loops
 2. Try running this file(be careful to come back into this directory). 
