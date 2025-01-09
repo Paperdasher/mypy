@@ -7,6 +7,29 @@ Compare two numbers and if they are equal print that they are equal.
 If the first one is equal to 15 print that it is equal to fifteen elif the second number is equal to 60 print that it is equal to sixty, else print out chicken
 """
 
+"""
+<b>Review:<b> = was an <b>*assignment operator*</b>, meaning it assigns a value to another.
+
+These assign a <b>varible</b> to a value, or another variable. Assignments can occur for variables set to the same data type.
+'''
+a = 100
+b = a
+c = b + 10
+d = c - 15
+'''
+
+What will the following output?
+
+'''
+b == a
+b != a
+c >= d
+a < c
+'''
+
+
+"""
+
 # ----------------------------------------------------- #
 
 
