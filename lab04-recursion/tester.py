@@ -1,5 +1,7 @@
 ## Lab04- TESTER ##
 
+# Call using python -m unittest tester.py #
+
 import unittest
 from io import StringIO
 import sys
