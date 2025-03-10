@@ -1,6 +1,7 @@
 ## Lab03- TESTER ##
 
 # This file will test the sorting algorithms in sorting.py
+# Call using python -m unittest tester.py #
 
 import sorting
 import random
